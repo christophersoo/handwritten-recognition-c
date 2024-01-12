@@ -11,3 +11,5 @@ You can execute the file using an IDE. Make sure to import the dataset files whi
 The T.matrix file, X.matrix file, and Y.matrix file
 
 # Thanks!
+If you have any questions about installation you can always email me at chitosux@gmail.com or jj22293@bristol.ac.uk
+Thanks!
